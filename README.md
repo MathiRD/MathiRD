@@ -1,6 +1,5 @@
 ## Hi there 👋, here are some things about me:
   
-  - I'm currently a Mobile Developer Intern for Compass.Uol -> <a href="https://compass.uol/en/home/"><img src="https://logospng.org/download/uol/logo-uol-icon-1024.png" height="18em" /></a>
   - Computer Science at Atitus Educação -> <a href="https://www.atitus.edu.br/"><img src="https://media.licdn.com/dms/image/D4D0BAQFaTt38qzrsVQ/company-logo_100_100/0/1688145335636?e=2147483647&v=beta&t=lzZz2_-h6SwK48L8FyiF9g8lDjo_UqA9N8kfeLbyvy0" height="18em"/></a>
   - Front-end Developer -> <a href="https://github.com/MathiRD"><img src="https://cdn-icons-png.flaticon.com/512/2621/2621189.png" height="20em"/></a>
   
@@ -39,5 +38,3 @@
     </a>
 </div>
   
-
-![snake gif](https://github.com/MathiRD/MathiRD/blob/output/github-contribution-grid-snake.svg)
