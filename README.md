@@ -4,7 +4,7 @@
 **About me:**
 
   - Computer Science at Atitus Educação -> <a href="https://www.atitus.edu.br/"><img src="https://media.licdn.com/dms/image/D4D0BAQFaTt38qzrsVQ/company-logo_100_100/0/1688145335636?e=2147483647&v=beta&t=lzZz2_-h6SwK48L8FyiF9g8lDjo_UqA9N8kfeLbyvy0" height="18em"/></a>
-  - Developer for -> <a href="https://atua.com.br/"><img src="https://cdn-icons-png.flaticon.com/512/2621/2621189.png" height="20em"/></a>
+  - Developer for -> <a href="https://atua.com.br/"><img src="atuaIcon.jpg" alt="AtuaIcon" title="Gmail" width="20" height="20"/></a></a>
   
 **Stats:**
 
